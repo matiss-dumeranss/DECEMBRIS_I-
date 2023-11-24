@@ -1,1 +1,1 @@
-Matīss (Savu darbu vērtēju labi, jo protu izmantot GIT hub saistījumā ar VS code problēmas sagādā uzdevumu izpilde.)
+Matīss (Savu darbu vērtēju labi, jo protu izmantot GIT hub saistījumā ar VS code problēmas sagādā uzdevumu izpilde.Ar dažiem uzdevumiem veicās salīdzinoši veiksmīgi)
